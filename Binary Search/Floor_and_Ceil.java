@@ -3,7 +3,7 @@ import java.io.*;
 
 public class Floor_and_Ceil {
     public static int[] getFloorAndCeil(int[] arr, int n, int x) {
-        // Wriute your code here.
+        // Write your code here.
         int[] ans = new int[2];
         ans[0] = -1;
         ans[1] = -1;
